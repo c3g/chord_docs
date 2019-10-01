@@ -19,3 +19,11 @@ CHORD
 
    formats/chord_services
    formats/chord_search
+   formats/chord_workflows
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Services
+
+   services/creating_a_service
+   services/bundled_services
