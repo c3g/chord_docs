@@ -9,7 +9,7 @@ confusion.
 +--------------+------------------+-----------------------------------------------+
 | Organization | Artifact         | Repository                                    |
 +==============+==================+===============================================+
-| org.ga4gh    | service-registry | https://github.com/c3g/chord_service_registry |
+| ca.c3g.chord | service-registry | https://github.com/c3g/chord_service_registry |
 +--------------+------------------+-----------------------------------------------+
 | ca.c3g.chord | drop-box         | https://github.com/c3g/chord_drop_box_service |
 +--------------+------------------+-----------------------------------------------+
