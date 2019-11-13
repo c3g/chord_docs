@@ -25,5 +25,6 @@ CHORD
    :maxdepth: 2
    :caption: Services
 
+   services/chord_service_types
    services/creating_a_service
    services/bundled_services
