@@ -17,6 +17,8 @@ confusion.
 +--------------+------------------+-----------------------------------------------+
 | ca.c3g.chord | federation       | https://github.com/c3g/chord_federation       |
 +--------------+------------------+-----------------------------------------------+
+| ca.c3g.chord | notification     | https://github.com/c3g/notification_service   |
++--------------+------------------+-----------------------------------------------+
 | ca.c3g.chord | metadata         | https://github.com/c3g/chord_metadata_service |
 +--------------+------------------+-----------------------------------------------+
 | ca.c3g.chord | example          | https://github.com/c3g/chord_example_service  |
