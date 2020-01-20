@@ -1,8 +1,4 @@
-.. CHORD documentation master file, created by
-   sphinx-quickstart on Mon Sep 30 17:01:53 2019.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
+=====
 CHORD
 =====
 
@@ -28,3 +24,9 @@ CHORD
    services/chord_service_types
    services/creating_a_service
    services/bundled_services
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Usage
+
+   usage/adding_data_to_drop_box
