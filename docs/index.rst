@@ -2,6 +2,8 @@
 CHORD
 =====
 
+This project was funded by CANARIE_.
+
 .. toctree::
    :maxdepth: 2
    :caption: Introduction
@@ -30,3 +32,5 @@ CHORD
    :caption: Usage
 
    usage/adding_data_to_drop_box
+
+.. _CANARIE: https://www.canarie.ca/
