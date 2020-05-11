@@ -9,6 +9,7 @@ This project was funded by CANARIE_.
    :caption: Introduction
 
    introduction/chord
+   introduction/provenance
    introduction/singularity_server
 
 .. toctree::
